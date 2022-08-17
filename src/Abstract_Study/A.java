@@ -19,3 +19,4 @@ public abstract class A {
 	public abstract void  p4();//// method declaration
 
 }
+//made some changes in cloning process
